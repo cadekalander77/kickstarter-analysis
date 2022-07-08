@@ -10,3 +10,6 @@ During the analysis of the launch date the pivot chart was created from the pivo
 ### Results
 Based off of our findings and the chart above, not only do overall projects increase in the month of May, however the successful projects increase realitive to failed and canceled projects as well. This tells us that the success rate of projects peaks in may and dives during the winter months. A conclusion that could be drawn from this data is, customers could have more disposable income in the months furthest away from the holidays. During the holidays, expenses tend to increase inturn deacreasing income able to be donated to a kickstarter.
 ## Deliverable 2 - Outcomes Based On Goal:
+### Overview of Project
+### Analysis and Challenges
+![Outcomes Based On Goal.png](Outcomes Based On Goal.png)
